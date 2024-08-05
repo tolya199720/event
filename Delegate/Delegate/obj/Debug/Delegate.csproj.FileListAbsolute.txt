@@ -1,0 +1,7 @@
+C:\Git\ProjectDelegate\Delegate\Delegate\bin\Debug\Delegate.exe.config
+C:\Git\ProjectDelegate\Delegate\Delegate\bin\Debug\Delegate.exe
+C:\Git\ProjectDelegate\Delegate\Delegate\bin\Debug\Delegate.pdb
+C:\Git\ProjectDelegate\Delegate\Delegate\obj\Debug\Delegate.csproj.AssemblyReference.cache
+C:\Git\ProjectDelegate\Delegate\Delegate\obj\Debug\Delegate.csproj.CoreCompileInputs.cache
+C:\Git\ProjectDelegate\Delegate\Delegate\obj\Debug\Delegate.exe
+C:\Git\ProjectDelegate\Delegate\Delegate\obj\Debug\Delegate.pdb
