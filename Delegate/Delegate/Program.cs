@@ -1,9 +1,11 @@
 ﻿using System;
+using Delegate;
 using System.Collections.Generic;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
+using static Delegate.generics;
 
 namespace Delegate
 {
@@ -54,20 +56,8 @@ namespace Delegate
 
         static void Main(string[] args)
         {
-            Ping ping1 = new Ping();
-            Pong pong1 = new Pong();
-
-            // Підписка об'єктів на події
-            ping1.PingEvent += pong1.OnPingReceived;
-            pong1.PongEvent += ping1.OnPongReceived;
-
-            // Запуск гри для першої пари
-            ping1.SendPing();
-
-            Console.WriteLine();
-
-
-
+            NewGenerics gen = new NewGenerics();
+            
         }
 
 
